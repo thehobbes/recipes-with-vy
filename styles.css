@@ -3,13 +3,18 @@ h1 {
     border: 2px black solid;
     padding: 8px 80px;
     width: fit-content;
-    margin: 20px auto 80px auto;
+    margin: 20px auto;
+}
+
+img {
+    max-width: 400px;
+    display: block;
+    margin: 0px auto;
 }
 
 ul {
     list-style-type: none;
     padding: 0px;
-
 }
 
 a {
@@ -22,7 +27,6 @@ a {
     font-size: 20px;
     display: block;
     margin: 32px auto;
-
 }
 
 a:hover {
