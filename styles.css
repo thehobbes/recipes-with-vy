@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    border: 2px black solid;
+    padding: 8px 80px;
+    width: fit-content;
+    margin: 20px auto 80px auto;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Brush Script MT', Georgia, serif;
+    border: 1px black solid;
+    border-radius: 8px; 
+    width: fit-content;
+    padding: 4px 40px;
+    font-size: 20px;
+    display: block;
+    margin: 32px auto;
+
+}
+
+a:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
