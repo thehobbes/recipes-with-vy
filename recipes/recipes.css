@@ -1,0 +1,14 @@
+.fit {
+    max-width: 50%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title {
+    text-align: center;
+    font-size: 3em;
+}
